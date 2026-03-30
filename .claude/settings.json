@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "mcp-server-filesystem",
+      "args": ["C:/LinkNote"]
+    },
+    "puppeteer": {
+      "command": "mcp-server-puppeteer",
+      "args": []
+    }
+  }
+}

@@ -1,0 +1,7 @@
+name = "linknote-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# ANTHROPIC_API_KEY is set via: npx wrangler secret put ANTHROPIC_API_KEY

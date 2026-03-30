@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx wrangler:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx @modelcontextprotocol/server-filesystem --version)",
+      "Read(//c/Users/Admin/.claude/**)",
+      "Read(//c/Users/Admin/.config/claude/**)",
+      "Skill(update-config)",
+      "Bash(node:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)"
+    ]
+  }
+}
